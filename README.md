@@ -1,3 +1,7 @@
+<!-- kapsca-brand v1 (perfil: solo el banner, sin isotipo duplicado) -->
+<p align="center"><img src="assets/brand/banner.png" alt="KapsCa" width="700"></p>
+<!-- /kapsca-brand -->
+
 <div align="center">
 
 **KapsCa** · estandarizo mi ecosistema: `brand` · `CI/CD` · `releases` · `skills`
@@ -7,8 +11,6 @@
 <a href="https://github.com/KapsCa/kapsca-brand/issues">contacto</a>
 
 </div>
-
----
 
 ---
 
