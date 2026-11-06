@@ -1,9 +1,4 @@
 <!-- kapsca-brand v1 (vendored copy of KapsCa/kapsca-brand; do not edit manually) -->
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/kapsca-512.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/brand/kapsca-mono-white.svg">
-  <img src="assets/brand/kapsca-512.png" alt="KapsCa" width="96">
-</picture></p>
 <p align="center"><img src="assets/brand/banner.png" alt="KapsCa" width="700"></p>
 <!-- /kapsca-brand -->
 <div align="center">
@@ -52,11 +47,3 @@ Terminal        Linux · scripting · LazyVim
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/KapsCa"><img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KapsCa&show_icons=true&hide_border=true&bg_color=0D0E12&title_color=CE97EB&text_color=ECE9F2&icon_color=E5384F" /></a>
-<a href="https://github.com/KapsCa"><img width="49%" alt="Streak" src="https://streak-stats.demolab.com?user=KapsCa&hide_border=true&background=0D0E12&border=3A2445&stroke=CE97EB&fire=E5384F&currStreakNum=ECE9F2&sideNums=ECE9F2&currStreakLabel=E5384F&sideLabels=D7A0B8&dates=8F8A9F" /></a>
-
-<sub>¿Colaboramos? <a href="https://github.com/KapsCa/kapsca-brand/issues"><strong>Abrí un issue</strong></a> — respondo rápido.</sub>
-
-</div>
