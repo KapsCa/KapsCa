@@ -1,40 +1,62 @@
-<!-- kapsca-brand v1 (perfil: solo el banner, sin isotipo duplicado) -->
-<p align="center"><img src="assets/brand/banner.png" alt="KapsCa" width="700"></p>
-<!-- /kapsca-brand -->
+<a id="top"></a>
 
 <div align="center">
 
-**KapsCa** · estandarizo mi ecosistema: `brand` · `CI/CD` · `releases` · `skills`
+<img width="100%" alt="KapsCa" src="assets/brand/banner.png" />
 
-<a href="https://github.com/KapsCa/kapsca-brand">brand</a> ·
-<a href="https://github.com/KapsCa/kkapsca-skills">pipeline</a> ·
-<a href="https://github.com/KapsCa/kapsca-brand/issues">contacto</a>
+<h1>KapsCa</h1>
+
+<p><strong>Construyo el estandar antes que el codigo: marca, pipeline y releases que crecen juntos.</strong></p>
+
+<p>
+<img alt="Brand kit" src="https://img.shields.io/badge/Brand kit-kapsca-brand-E5384F?style=for-the-badge&labelColor=180F1F" />
+<img alt="Pipeline" src="https://img.shields.io/badge/Pipeline-kkapsca-skills-CE97EB?style=for-the-badge&labelColor=180F1F" />
+<img alt="Entorno" src="https://img.shields.io/badge/Entorno-Windows + WSL-D7A0B8?style=for-the-badge&labelColor=180F1F" />
+</p>
+
+<p>
+<a href="#proyectos"><strong>Proyectos</strong></a> &bull;
+<a href="#stack"><strong>Stack</strong></a> &bull;
+<a href="#contacto"><strong>Contacto</strong></a>
+</p>
 
 </div>
 
 ---
 
-### Qué estoy construyendo
+<p>
+Cada repositorio de esta cuenta arranca con lo mismo: CI, analisis de seguridad, releases automaticas y la
+marca aplicada desde el primer commit. No es una coleccion de experimentos sueltos sino un ecosistema donde
+las decisiones de un proyecto sirven en el siguiente. El kit de marca y el pipeline son el sustrato; los
+proyectos son lo que se construyo encima.
+</p>
 
-| Proyecto | Qué resuelve | |
-|---|---|:--:|
-| **[kapsca-brand](https://github.com/KapsCa/kapsca-brand)** | Kit de marca: tokens con contraste medido, banners, favicon set y releases automáticas | ![stars](https://img.shields.io/github/stars/KapsCa/kapsca-brand?style=flat-square&labelColor=1A1218&color=D7A0B8) |
-| **[kkapsca-skills](https://github.com/KapsCa/kkapsca-skills)** | Fábrica del ecosistema: todo repo nuevo arranca con CI, seguridad, release y marca desde el día 0 | ![stars](https://img.shields.io/github/stars/KapsCa/kkapsca-skills?style=flat-square&labelColor=1A1218&color=D7A0B8) |
-| **[Creador-de-marcas](https://github.com/KapsCa/Creador-de-marcas)** | Generador de imágenes para branding sin fricción | ![stars](https://img.shields.io/github/stars/KapsCa/Creador-de-marcas?style=flat-square&labelColor=1A1218&color=D7A0B8) |
-| **[TieBreaker](https://github.com/KapsCa/TieBreaker)** | Juez neutral para cortar empates técnicos | ![stars](https://img.shields.io/github/stars/KapsCa/TieBreaker?style=flat-square&labelColor=1A1218&color=D7A0B8) |
-| **[TareaSUD---Musica](https://github.com/KapsCa/TareaSUD---Musica)** | App de prueba móvil en Flutter (tarea de desarrollo móvil para sudSolutions) | ![stars](https://img.shields.io/github/stars/KapsCa/TareaSUD---Musica?style=flat-square&labelColor=1A1218&color=D7A0B8) |
+## Proyectos
 
-<sub>+ lugares privados con foco clientes.</sub>
+| Proyecto | Que resuelve | Estado |
+|---|---|---|
+| [kapsca-brand](https://github.com/KapsCa/kapsca-brand) | Fuente unica de la marca: logos, banners, favicons y paleta con contraste medido, distribuida por releases | `v0.2.0` |
+| [kkapsca-skills](https://github.com/KapsCa/kkapsca-skills) | Skills en texto plano y pipeline `repo-bootstrap`: todo repo nuevo nace con estandares, seguridad y marca | activo |
+| [Diosesmon-Crianza](https://github.com/KapsCa/Diosesmon-Crianza) | Planificador de crianza para Diosesmon: cruces, IVs y roles en una vista | activo |
+| [TieBreaker](https://github.com/KapsCa/TieBreaker) | Juez de decisiones: matriz de criterios, pesos ajustables y veredicto con razones | prototipo |
+| [TareaSUD---Musica](https://github.com/KapsCa/TareaSUD---Musica) | App movil de practica en Flutter: Clean Architecture y GetX de punta a punta | practica |
+| [baseline-sandbox](https://github.com/KapsCa/baseline-sandbox) | Banco de pruebas de las plantillas de `repo-bootstrap` | interno |
+| [Creador-de-marcas](https://github.com/KapsCa/Creador-de-marcas) | Generacion de imagenes para publicaciones | en pausa |
 
-### Tech DNA
+Tambien hay trabajo privado con foco en clientes, que no se publica.
+
+## Stack
 
 ```
-Brand & imagen  SVG · tokens WCAG medidos · resvg (pipeline vectorial)
-Apps            Dart · Flutter · GetX · Clean Architecture
-Web / backend   TypeScript · Node · JavaScript
-CI / CD         GitHub Actions · release-please · gitleaks · CodeQL
-Terminal        Windows + WSL · scripting
+Marca        SVG · tokens medidos (WCAG, delta E) · resvg
+Apps         Dart · Flutter · GetX · Clean Architecture
+Web          TypeScript · React 19 · Vite · Tailwind 4
+Backend      Node · Express · APIs de modelos
+CI / CD      GitHub Actions · release-please · gitleaks · CodeQL
+Entorno      Windows + WSL · scripting
 ```
 
----
+## Contacto
 
+Las decisiones y el estado del ecosistema se discuten en los issues del kit:
+[KapsCa/kapsca-brand/issues](https://github.com/KapsCa/kapsca-brand/issues).
