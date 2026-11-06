@@ -20,7 +20,7 @@
 | **[kkapsca-skills](https://github.com/KapsCa/kkapsca-skills)** | Fábrica del ecosistema: todo repo nuevo arranca con CI, seguridad, release y marca desde el día 0 | ![stars](https://img.shields.io/github/stars/KapsCa/kkapsca-skills?style=flat-square&labelColor=1A1218&color=D7A0B8) |
 | **[Creador-de-marcas](https://github.com/KapsCa/Creador-de-marcas)** | Generador de imágenes para branding sin fricción | ![stars](https://img.shields.io/github/stars/KapsCa/Creador-de-marcas?style=flat-square&labelColor=1A1218&color=D7A0B8) |
 | **[TieBreaker](https://github.com/KapsCa/TieBreaker)** | Juez neutral para cortar empates técnicos | ![stars](https://img.shields.io/github/stars/KapsCa/TieBreaker?style=flat-square&labelColor=1A1218&color=D7A0B8) |
-| **[TareaSUD---Musica](https://github.com/KapsCa/TareaSUD---Musica)** | App de música en Flutter (GetX, Clean Architecture) | ![stars](https://img.shields.io/github/stars/KapsCa/TareaSUD---Musica?style=flat-square&labelColor=1A1218&color=D7A0B8) |
+| **[TareaSUD---Musica](https://github.com/KapsCa/TareaSUD---Musica)** | App de prueba móvil en Flutter (tarea de desarrollo móvil para sudSolutions) | ![stars](https://img.shields.io/github/stars/KapsCa/TareaSUD---Musica?style=flat-square&labelColor=1A1218&color=D7A0B8) |
 
 <sub>+ lugares privados con foco clientes.</sub>
 
