@@ -31,7 +31,7 @@ Brand & imagen  SVG · tokens WCAG medidos · resvg (pipeline vectorial)
 Apps            Dart · Flutter · GetX · Clean Architecture
 Web / backend   TypeScript · Node · JavaScript
 CI / CD         GitHub Actions · release-please · gitleaks · CodeQL
-Terminal        Linux · scripting · LazyVim
+Terminal        Windows + WSL · scripting
 ```
 
 ---
